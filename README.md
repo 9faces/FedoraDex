@@ -25,4 +25,5 @@ Version 2.5.9 brings several improvements and additions, focusing on better code
 *Modified with purpose. Improved with every update.*
 
 Developed and Maintained by **The Fedora Group**.
+
 Did AI made this too dramatic?
