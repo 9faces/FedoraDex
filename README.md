@@ -7,7 +7,7 @@
 # Dex Fedora
 **Version 2.5.9**
 
-Dex Fedora is a modified and enhanced version of the original Dex, developed by **The Fedora Group** with a focus on improving functionality, usability, and overall performance.
+Dex Fedora is a modified and enhanced version of the original Dex that is PRIVATE, developed by **The Fedora Group** with a focus on improving functionality, usability, and overall performance.
 
 Designed to provide a more refined development and inspection experience, Dex Fedora introduces upgraded tools, improved decompilation capabilities, and additional features to make working with scripts and exploring game structures more convenient.
 
